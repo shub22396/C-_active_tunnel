@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gk9HhEgRHVqeb9EjDmXDnst2i3/xl36O4y5Sb06mg0gUUNAcQgbjKkTA6Jc7Y+IYIVDkFi4HUl9ka4Ct36zOZg==",
+  "success": true,
+  "projectFilePath": "D:\\CSharp-NUnit-Selenium-master\\NUnitSelenium\\NUnitSelenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo E14\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Lenovo E14\\.nuget\\packages\\nunit3testadapter\\3.8.0\\nunit3testadapter.3.8.0.nupkg.sha512",
+    "C:\\Users\\Lenovo E14\\.nuget\\packages\\selenium.rc\\3.1.0\\selenium.rc.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo E14\\.nuget\\packages\\selenium.support\\3.5.2\\selenium.support.3.5.2.nupkg.sha512",
+    "C:\\Users\\Lenovo E14\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Lenovo E14\\.nuget\\packages\\selenium.webdriverbackedselenium\\3.5.2\\selenium.webdriverbackedselenium.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
